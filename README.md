@@ -1,6 +1,5 @@
-   Hey, I'm Mulugeta  👋
-   
-   <br><br>
+Hey, I'M MULUGETA 👋
+   <br>
 # 💫 About Me:
 🔭 I’m currently working on<br><br>- Learning Mobile app Dev't using Flutter and React Native.<br>- Enhancing my portfolio with advanced frontend projects using HTML, CSS, and JavaScript with React.<br>-Learning advanced concepts of Algorithm and practice with questions @ Leetcode and codeforce to enhance my  problem-solving skill. <br>👯 I’m looking to collaborate on<br><br>- Open-source projects related to web and mobile development.<br>- Innovative tools and libraries that can improve the development workflow.<br><br>🤝 I’m looking for help with<br><br>- Gaining deeper knowledge in Flutter and React Native best practices.<br>- Improving my backend skills to become a full-stack developer.<br><br>🌱 I’m currently learning<br><br>- Advanced concepts in Flutter and React Native for mobile app development.<br>- New web technologies and frameworks to stay updated in the frontend ecosystem.<br><br>💬 Ask me about<br><br>- Frontend development with HTML, CSS, and JavaScript.<br>- Tips and tricks for creating responsive and interactive web applications.<br>- How to get started with mobile app development using Flutter and React Native.<br><br>⚡ Fun fact<br><br>I can debug for hours but forget to take my coffee breaks! 😊
 
