@@ -19,9 +19,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1>Achievement & Certificates</h1> <br>
-![Certificate](https://github.com/Muller1616/Muller1616/blob/main/photo_2025-01-21_18-00-01.jpg?raw=true)
-![Certificate](https://github.com/Muller1616/Muller1616/blob/main/![photo_2025-01-21_18-00-05](https://github.com/user-attachments/assets/106288aa-faa8-4483-98f0-061d80aa91c9)
-)
 
 
 
