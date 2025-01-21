@@ -20,7 +20,7 @@
 
 <h1>Achievement & Certificates</h1> <br>
 ![Certificate](https://github.com/Muller1616/Muller1616/blob/main/frontend%20certified.jpg) <br>
-![Certificate](https://github.com/Muller1616/Muller1616/blob/main/responsive%20web%20disign.jpg?raw=true)
+![Certificate](https://github.com/Muller1616/Muller1616/blob/main/responsive%20web%20disign.jpg?raw)
 
 
 
