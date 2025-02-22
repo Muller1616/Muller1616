@@ -1,5 +1,5 @@
-# *Hi 👋, I'm Mulugeta*
-<h3 align="center">A passionate Software Engineer</h3>
+# *Hi, I'm Mulugeta 👋*
+<h3>A passionate Software Engineer</h3>
    <br>
    
    <image align = "right" alt = "coding" width = "350"  src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
