@@ -1,9 +1,11 @@
-<h1 align="center" style="font-style: italic;">Hi 👋, I'm Mulugeta</h1>
+<h1 align="center" style="font-style: italic">Hi 👋, I'm Mulugeta</h1>
 <h3 align="center">A passionate Software Engineer</h3>
    <br>
    
    <image align = "right" alt = "coding" width = "350"  src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
- 💫 About Me: <br><br>
+ 💫 About Me:<br><br>
+ I'm a passionate Frontend Developer, Mobile App developer.<br>
+ Falling in love with creating user friendly web app
 
 
 
