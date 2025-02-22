@@ -1,4 +1,4 @@
-<h1 align="center" style="font-style: italic;>Hi 👋, I'm Mulugeta</h1>
+<h1 style="font-style: italic; align="center" ">Hi 👋, I'm Mulugeta</h1>
 <h3 align="center">A passionate Software Engineer</h3>
    <br>
    
