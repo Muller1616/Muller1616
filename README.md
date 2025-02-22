@@ -1,4 +1,4 @@
-# *Hi, I'm Mulugeta 👋*
+# *Hey , I'm Mulugeta 👋*
 <h3>A passionate Software Engineer</h3>
    <br>
    
