@@ -2,7 +2,7 @@
 <h3>A passionate Software Engineer</h3>
    <br>
    
-   <image  alt = "coding" width = "350"  src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+   <image  alt = "coding" width = "1200"  src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
  💫 About Me:<br><br>
  I'm a passionate Back-end  Developer, Mobile App developer | Flutter.<br>
  Falling in love with creating user friendly web app
