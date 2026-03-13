@@ -18,7 +18,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muller1616&label=Profile%20views&color=0e75b6&style=flat" alt="muller1616" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1>Achievement & Certificates</h1> <br>
 ![Front-end development certified](https://github.com/Muller1616/Muller1616/blob/main/frontend%20certified.jpg) <br>
