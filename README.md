@@ -44,22 +44,25 @@ I focus on:
 
 # ❇️ Tech Stack & Expertise
 
+
 <div align="center">
 
 ## 🎨 Frontend Development
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-## ⚙️ Backend Development
+<br/>
 
+## ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,prisma&theme=dark" />
 
-## 📱 Mobile App Development
+<br/>
 
+## 📱 Mobile App Development
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
 
-## 🤖 Automation & DevOps
+<br/>
 
+## 🤖 Automation & DevOps
 <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github&theme=dark" />
 
 </div>
