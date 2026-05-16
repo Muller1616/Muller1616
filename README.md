@@ -50,8 +50,7 @@ I focus on:
 <div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
+
 
 ## 🎨 Frontend Development
 
@@ -67,9 +66,7 @@ I focus on:
 
 </div>
 
-</td>
 
-<td width="50%" valign="top">
 
 ## ⚙️ Backend Development
 
@@ -85,11 +82,9 @@ I focus on:
 
 </div>
 
-</td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+
+
 
 ## 📱 Mobile App Development
 
@@ -105,9 +100,7 @@ I focus on:
 
 </div>
 
-</td>
 
-<td width="50%" valign="top">
 
 ## 🤖 Automation & DevOps
 
@@ -123,8 +116,7 @@ I focus on:
 
 </div>
 
-</td>
-</tr>
+
 </table>
 
 </div>
