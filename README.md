@@ -49,8 +49,7 @@ I focus on:
 
 <div align="center">
 
-<table>
-<tr>
+
 
 
 ## 🎨 Frontend Development
@@ -86,9 +85,7 @@ I focus on:
 </div>
 
 
-</tr>
 
-<tr>
 
 
 ## 📱 Mobile App Development
@@ -124,8 +121,7 @@ I focus on:
 </div>
 
 
-</tr>
-</table>
+
 
 </div>
 
