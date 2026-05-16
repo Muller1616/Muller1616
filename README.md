@@ -40,7 +40,6 @@ I focus on:
 <img src="https://img.shields.io/badge/Mobile%20Apps-111827?style=for-the-badge&logo=flutter&logoColor=02569B"/>
 <img src="https://img.shields.io/badge/FastAPI%20Development-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
 <img src="https://img.shields.io/badge/Dockerized%20Apps-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/IoT%20Projects-111827?style=for-the-badge&logo=esphome&logoColor=00F7FF"/>
 
 </div>
 
@@ -137,23 +136,23 @@ I focus on:
 <div align="center">
 
 <!-- Portfolio (🌐 icon + clickable) -->
-<a href="https://mulugetaa.com/" target="_blank">
+<a href="https://mulugetaa.com/" target="_blank" style="display:inline-block;">
   <span style="font-size:40px;">Portfolio</span>
 </a>
 
-&nbsp;
+
 
 <!-- LinkedIn (icon only + clickable) -->
-<a href="https://www.linkedin.com/in/mulugetaabeje16/" target="_blank">
+<a href="https://www.linkedin.com/in/mulugetaabeje16/" target="_blank" style="display:inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
 </a>
 
-&nbsp;
+
 
 <!-- Telegram (TEXT ONLY) -->
 <span style="font-size:18px; font-weight:600;">Telegram: @Yekidanuaa16</span>
 
-&nbsp;
+
 
 <!-- WhatsApp (TEXT ONLY) -->
 <span style="font-size:18px; font-weight:600;">WhatsApp: +251 939268336</span>
