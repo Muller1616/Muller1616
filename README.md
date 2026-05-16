@@ -1,154 +1,143 @@
-
-
-## 🌐 Connect With me:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_u_l_l_e_r_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mulugetaabeje16/) 
-
-
- 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muller1616&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muller1616&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muller1616&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muller1616&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Muller1616&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0f0c29,302b63,24243e&height=280&section=header&text=Mulugeta%20Abeje&fontSize=80&animation=twinkling&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Full-Stack%20%7C%20IoT%20Builder&descAlignY=65&descAlign=50&fontColor=00f2fe" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=800&lines=Frontend+%7C+Full-Stack+%7C+Mobile+Developer;Building+Flutter+Apps+(Offline-First);FastAPI+%26+Backend+Systems;Working+with+Firebase+%26+APIs;Exploring+IoT+(ESP32)+%26+Automation" />
-  </a>
-</div>
-
----
-
-## 🧠 About Me
-
-
-Finding a developer who can code is easy.
-Choosing someone who genuinely cares about your project’s success? That’s rare.
-
-That’s why I work differently.
-
-From handling complex web apps to automating repetitive workflows while collaborating on projects in Maryland, USA, I’ve learned firsthand how to deliver solutions that prevent headaches, save time, and keep projects running smoothly.
-
-I understand best practices.
-I know common mistakes to avoid.
-I focus on solutions that save time, reduce frustration, and create real value.
-
-I don’t just have clients. I work with collaborators who remember the results I bring.
-
-𝗪𝗵𝗮𝘁 𝗜 𝗼𝗳𝗳𝗲𝗿:
-
-  • Complete Full-Stack Development – React.js, Next.js, Node.js, Express.js, MongoDB, Python
-
-  • Web Application Enhancements & Troubleshooting – fixing bugs, improving performance, and adding useful features
-
-  • Responsive Front-End Design – seamless user experience across all devices
-
-  • Clear Communication & Regular Updates – always keeping you informed of progress
-
-  • Reliable & Maintainable Code – solutions designed to scale and last
-
-  • Client-Focused Results – tools and applications built to support your business goals
-
-𝗪𝗵𝘆 𝗰𝗵𝗼𝗼𝘀𝗲 𝗺𝗲?
-
-✅ Experienced with real-world projects from different Client
-✅ Fast learner who adapts to new technologies and project requirements
-✅ Transparent, timely, and consistent communication
-✅ Focused on delivering functional solutions that make a real difference
----
-
-## 🧰 Skills & Tools
-
+<!-- HERO SECTION -->
 <div align="center">
 
-  <h3>📱 Mobile Development</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" /><br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Mulugeta%20Abeje&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Mobile%20Developer%20|%20IoT%20Builder&descAlignY=58&descSize=20"/>
 
-  <h3>🌐 Frontend & Full-Stack</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" /><br/><br/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Modern+Full-Stack+Applications;Crafting+Responsive+Frontend+Experiences;Developing+Flutter+%26+Mobile+Applications;Creating+Scalable+Backend+Systems;Working+with+APIs%2C+Firebase+%26+Databases;Exploring+IoT+with+ESP32+%26+Automation" alt="Typing SVG" />
+</a>
 
-  <h3>⚙️ Backend & Systems</h3>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,mysql&theme=dark" /><br/><br/>
+<br/><br/>
 
-  <h3>🛠️ DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux&theme=dark" /><br/><br/>
-
-  <h3>🎨 UI / UX Design</h3>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=Muller1616&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1"/>
 
 </div>
 
 ---
 
-## 🚀 What I’m Building & Exploring
+# 💫 About Me
+
+Finding someone who can code is easy.  
+Finding someone who genuinely cares about building reliable, scalable, and user-focused products is much harder.
+
+I’m a Full-Stack & Mobile Developer passionate about building modern applications that solve real problems. I enjoy working across frontend, backend, mobile, and automation systems while continuously improving my development workflow and system design skills.
+
+I focus on:
+- Clean and maintainable code
+- Responsive and fast user experiences
+- Scalable backend systems
+- Real-world problem solving
+- Long-term product quality
+
+---
+
+# 🚀 Current Focus
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Development-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Systems-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile%20Apps%20(Flutter)-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI%20Backends-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dockerized%20Apps-0db7ed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD%20(GitHub%20Actions)-2088FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IoT%20(ESP32)-1A73E8?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Frontend%20Development-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Backend%20Systems-111827?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/Mobile%20Apps-111827?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/FastAPI%20Development-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Dockerized%20Apps-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/IoT%20Projects-111827?style=for-the-badge&logo=esphome&logoColor=00F7FF"/>
+
 </div>
 
 ---
 
-<h3 align="center">🐍 Contribution Journey</h3>
+# 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,flutter,dart,firebase,mongodb,postgres,prisma,python,fastapi,docker,git,github,linux,figma,vscode&perline=8" />
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mulugeta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulugeta&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
 
-  <br/>
+<a href="https://mulugetaa.com/">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mulugeta&theme=tokyonight" />
+<a href="https://github.com/Muller1616">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <br/>
+<a href="https://www.linkedin.com/in/mulugetaabeje16/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mulugeta&theme=tokyonight&hide_border=true&background=00000000" />
+<a href="https://instagram.com/m_u_l_l_e_r_16">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 📈 Activity Graph 
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=Mulugeta&theme=dracula" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muller1616&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muller1616&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller1616&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muller1616&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+# ✍️ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Muller1616&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mulugeta&label=Profile%20Views&color=0072ff&style=for-the-badge" />
+
+### ⚡ Building scalable digital experiences with modern technologies.
+
 </div>
