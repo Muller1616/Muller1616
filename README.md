@@ -136,31 +136,32 @@ I focus on:
 
 <div align="center">
 
-<!-- Portfolio -->
+<!-- Portfolio (🌐 icon + clickable) -->
 <a href="https://mulugetaa.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/internetexplorer/internetexplorer-plain.svg" width="60"/>
+  <span style="font-size:40px;">Portfolio</span>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<!-- LinkedIn -->
+<!-- LinkedIn (icon only + clickable) -->
 <a href="https://www.linkedin.com/in/mulugetaabeje16/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<!-- Telegram (display only icon) -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="60"/>
+<!-- Telegram (TEXT ONLY) -->
+<span style="font-size:18px; font-weight:600;">Telegram: @Yekidanuaa16</span>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<!-- WhatsApp (display only icon) -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="60"/>
+<!-- WhatsApp (TEXT ONLY) -->
+<span style="font-size:18px; font-weight:600;">WhatsApp: +251 939268336</span>
+&nbsp;
+<!-- email-->
+<span style="font-size:18px; font-weight:600;">Email: mulugetaabeje16@gmail.com</span>
 
 </div>
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
