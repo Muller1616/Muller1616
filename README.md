@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Mulugeta%20Abeje&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Mobile-App%20Developer%20|%20Automation%20Builder&descAlignY=58&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Modern+Full-Stack+Applications;Crafting+Responsive+Frontend+Experiences;Developing+Flutter+%26+Mobile+Applications;Creating+Scalable+Backend+Systems;Working+with+APIs%2C+Firebase+%26+Databases;Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Modern+Full-Stack+Applications;Crafting+Responsive+Frontend+Experiences;Developing+Flutter+%26+Mobile+Applications;Creating+Scalable+Backend+Systems;Working+with+APIs%2C+Firebase+%26+Databases;Automation" />
 </a>
 
 <br/><br/>
@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 # 👨‍🦰 About Me
 
@@ -29,7 +28,6 @@ I focus on:
 - Real-world problem solving
 - Long-term product quality
 
----
 
 # 🟢 Current Focus
 
@@ -39,130 +37,55 @@ I focus on:
 <img src="https://img.shields.io/badge/Backend%20Systems-111827?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
 <img src="https://img.shields.io/badge/Mobile%20Apps-111827?style=for-the-badge&logo=flutter&logoColor=02569B"/>
 <img src="https://img.shields.io/badge/FastAPI%20Development-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/Dockerized%20Apps-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Dockerized%20Apps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
----
 
 # ❇️ Tech Stack & Expertise
 
 <div align="center">
 
-
-
-
 ## 🎨 Frontend Development
-
-
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Responsive_UI-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Modern_Web_Apps-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Interactive_Experiences-1F2937?style=for-the-badge"/>
-
-
-
-
-
-
-
 ## ⚙️ Backend Development
-
-
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,prisma&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/REST_APIs-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalable_Systems-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database_Architecture-1F2937?style=for-the-badge"/>
-
-
-
-
-
-
-
 ## 📱 Mobile App Development
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Cross_Platform-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Offline_First_Apps-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Realtime_Features-1F2937?style=for-the-badge"/>
-
-</div>
-
-
-
-
-
 ## 🤖 Automation & DevOps
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CI/CD_Workflows-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation_Systems-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Optimized_Deployment-1F2937?style=for-the-badge"/>
-
 </div>
 
-
-
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<!-- Portfolio -->
 <a href="https://mulugetaa.com/" target="_blank">
   <span style="font-size:28px;">🌐 Portfolio</span>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mulugetaabeje16/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Telegram -->
-<span style="font-size:16px; font-weight:500;">
-  Telegram: @Yekidanuaa16
-</span>
-
+<span>Telegram: @Yekidanuaa16</span>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- WhatsApp -->
-<span style="font-size:16px; font-weight:500;">
-  WhatsApp: +251 939268336
-</span>
-
+<span>WhatsApp: +251 939268336</span>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Email -->
-<span style="font-size:16px; font-weight:500;">
-  Email: mulugetaabeje16@gmail.com
-</span>
+<span>Email: mulugetaabeje16@gmail.com</span>
 
 </div>
 
@@ -172,25 +95,21 @@ I focus on:
 <div align="center">
 
 <a href="https://github.com/Muller1616">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Muller1616&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muller1616&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/Muller1616">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Muller1616&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muller1616&theme=tokyonight_duo&hide_border=true&background=0D1117" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Muller1616">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller1616&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/Muller1616">
-  <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muller1616&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller1616&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 </div>
----
+
 
 # 📈 Contribution Graph
 
@@ -200,37 +119,28 @@ I focus on:
 
 </div>
 
----
 
-# ⏺️ Contribution 
+# ⏺️ Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
----
 
-# ✍️ Developer Quote
+# ✍️ Quote + Profile Views
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Muller1616&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
----
 
 <div align="center">
 
