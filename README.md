@@ -54,7 +54,7 @@ I focus on:
 
 ## 🎨 Frontend Development
 
-<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
@@ -64,7 +64,7 @@ I focus on:
 <img src="https://img.shields.io/badge/Modern_Web_Apps-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Interactive_Experiences-1F2937?style=for-the-badge"/>
 
-</div>
+
 
 
 
@@ -72,7 +72,7 @@ I focus on:
 
 ## ⚙️ Backend Development
 
-<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,prisma&theme=dark" />
 
@@ -82,7 +82,7 @@ I focus on:
 <img src="https://img.shields.io/badge/Scalable_Systems-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Database_Architecture-1F2937?style=for-the-badge"/>
 
-</div>
+
 
 
 
