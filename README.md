@@ -33,13 +33,14 @@ I focus on:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Frontend%20Development-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Backend%20Systems-111827?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-<img src="https://img.shields.io/badge/Mobile%20Apps-111827?style=for-the-badge&logo=flutter&logoColor=02569B"/>
-<img src="https://img.shields.io/badge/FastAPI%20Development-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/Dockerized%20Apps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend%20Development-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br/><br/>
+<img src="https://img.shields.io/badge/Backend%20Systems-111827?style=for-the-badge&logo=node.js&logoColor=3C873A"/> <br/><br/>
+<img src="https://img.shields.io/badge/Mobile%20Apps-111827?style=for-the-badge&logo=flutter&logoColor=02569B"/> <br/><br/>
+<img src="https://img.shields.io/badge/FastAPI%20Development-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/> <br/><br/>
+<img src="https://img.shields.io/badge/Dockerized%20Apps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
 
 </div>
+<br/><br/>
 
 
 # ❇️ Tech Stack & Expertise
@@ -69,6 +70,7 @@ I focus on:
 <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github&theme=dark" />
 
 </div>
+<br/><br/>
 
 # 🌐 Connect With Me
 
@@ -93,6 +95,7 @@ I focus on:
 <span>Email: mulugetaabeje16@gmail.com</span>
 
 </div>
+<br/><br/>
 
 
 # 📊 GitHub Analytics
@@ -114,6 +117,7 @@ I focus on:
 </a>
 
 </div>
+<br/><br/>
 
 
 # 📈 Contribution Graph
@@ -124,6 +128,8 @@ I focus on:
 
 </div>
 
+<br/><br/>
+
 
 # ⏺️ Contribution Snake
 
@@ -132,6 +138,7 @@ I focus on:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+<br/><br/>
 
 
 # ✍️ Quote + Profile Views
