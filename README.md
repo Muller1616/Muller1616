@@ -46,11 +46,87 @@ I focus on:
 
 ---
 
-# ❇️ Tech Stack
+# ❇️ Tech Stack & Expertise
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,flutter,dart,firebase,mongodb,postgres,prisma,python,fastapi,docker,git,github,linux,figma,vscode&perline=8" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Responsive_UI-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Modern_Web_Apps-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interactive_Experiences-1F2937?style=for-the-badge"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,prisma&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable_Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Architecture-1F2937?style=for-the-badge"/>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📱 Mobile App Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Cross_Platform-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Offline_First_Apps-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Realtime_Features-1F2937?style=for-the-badge"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Automation & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CI/CD_Workflows-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation_Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Optimized_Deployment-1F2937?style=for-the-badge"/>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -80,16 +156,25 @@ I focus on:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muller1616&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+<a href="https://github.com/Muller1616">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Muller1616&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" />
+</a>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muller1616&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<a href="https://github.com/Muller1616">
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Muller1616&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</a>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller1616&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<a href="https://github.com/Muller1616">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller1616&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Muller1616">
+  <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muller1616&theme=tokyonight" />
+</a>
 
 </div>
-
 ---
 
 # 📈 Contribution Graph
