@@ -136,27 +136,27 @@ I focus on:
 
 <div align="center">
 
-<!-- Portfolio (Icon only, clickable) -->
+<!-- Portfolio -->
 <a href="https://mulugetaa.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/internetexplorer/internetexplorer-plain.svg" width="60"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<!-- LinkedIn (Icon only, clickable) -->
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mulugetaabeje16/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<!-- Telegram (icon only, NOT clickable text link) -->
-<img src="https://skillicons.dev/icons?i=telegram" width="55" height="55" />
+<!-- Telegram (display only icon) -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="60"/>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<!-- WhatsApp (icon only, NOT clickable text link) -->
-<img src="https://skillicons.dev/icons?i=whatsapp" width="55" height="55" />
+<!-- WhatsApp (display only icon) -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="60"/>
 
 </div>
 ---
