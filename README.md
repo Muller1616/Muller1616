@@ -46,12 +46,26 @@ I focus on:
 
 <div align="center">
 
+<!-- Frontend -->
+<p><strong>🎨 Frontend Development</strong></p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+
 <br/><br/>
+
+<!-- Backend -->
+<p><strong>⚙️ Backend Development</strong></p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,prisma&theme=dark" />
+
 <br/><br/>
+
+<!-- Mobile -->
+<p><strong>📱 Mobile App Development</strong></p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
+
 <br/><br/>
+
+<!-- DevOps -->
+<p><strong>🤖 Automation & DevOps</strong></p>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github&theme=dark" />
 
 </div>
