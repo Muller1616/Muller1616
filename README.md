@@ -136,20 +136,25 @@ I focus on:
 
 <div align="center">
 
-<a href="https://mulugetaa.com/">
-<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<!-- Portfolio (with custom M logo) -->
+<a href="https://mulugetaa.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-M%20Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
-<a href="https://github.com/Muller1616">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mulugetaabeje16/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mulugeta%20Abeje-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/mulugetaabeje16/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
+
+<!-- Telegram (text only, not clickable) -->
+<img src="https://img.shields.io/badge/Telegram-@Yekidanuaa16-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+
+<!-- WhatsApp (text only, not clickable) -->
+<img src="https://img.shields.io/badge/WhatsApp-%2B251%20939268336-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </div>
-
 ---
 
 # 📊 GitHub Analytics
