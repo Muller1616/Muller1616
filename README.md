@@ -136,23 +136,27 @@ I focus on:
 
 <div align="center">
 
-<!-- Portfolio (with custom M logo) -->
+<!-- Portfolio (Icon only, clickable) -->
 <a href="https://mulugetaa.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-M%20Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" />
 </a>
 
-<!-- LinkedIn -->
+&nbsp;&nbsp;&nbsp;
+
+<!-- LinkedIn (Icon only, clickable) -->
 <a href="https://www.linkedin.com/in/mulugetaabeje16/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mulugeta%20Abeje-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" />
 </a>
 
-<br/><br/>
+&nbsp;&nbsp;&nbsp;
 
-<!-- Telegram (text only, not clickable) -->
-<img src="https://img.shields.io/badge/Telegram-@Yekidanuaa16-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<!-- Telegram (icon only, NOT clickable text link) -->
+<img src="https://skillicons.dev/icons?i=telegram" width="55" height="55" />
 
-<!-- WhatsApp (text only, not clickable) -->
-<img src="https://img.shields.io/badge/WhatsApp-%2B251%20939268336-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+&nbsp;&nbsp;&nbsp;
+
+<!-- WhatsApp (icon only, NOT clickable text link) -->
+<img src="https://skillicons.dev/icons?i=whatsapp" width="55" height="55" />
 
 </div>
 ---
