@@ -1,10 +1,10 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Mulugeta%20Abeje&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Mobile%20Developer%20|%20IoT%20Builder&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Mulugeta%20Abeje&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Mobile-App%20Developer%20|%20Automation%20Builder&descAlignY=58&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Modern+Full-Stack+Applications;Crafting+Responsive+Frontend+Experiences;Developing+Flutter+%26+Mobile+Applications;Creating+Scalable+Backend+Systems;Working+with+APIs%2C+Firebase+%26+Databases;Exploring+IoT+with+ESP32+%26+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Modern+Full-Stack+Applications;Crafting+Responsive+Frontend+Experiences;Developing+Flutter+%26+Mobile+Applications;Creating+Scalable+Backend+Systems;Working+with+APIs%2C+Firebase+%26+Databases;Automation" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,7 +15,7 @@
 
 ---
 
-# 💫 About Me
+# 👨‍🦰 About Me
 
 Finding someone who can code is easy.  
 Finding someone who genuinely cares about building reliable, scalable, and user-focused products is much harder.
@@ -31,7 +31,7 @@ I focus on:
 
 ---
 
-# 🚀 Current Focus
+# 🟢 Current Focus
 
 <div align="center">
 
@@ -46,7 +46,7 @@ I focus on:
 
 ---
 
-# 🛠️ Tech Stack
+# ❇️ Tech Stack
 
 <div align="center">
 
@@ -70,10 +70,6 @@ I focus on:
 
 <a href="https://www.linkedin.com/in/mulugetaabeje16/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/m_u_l_l_e_r_16">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -106,7 +102,7 @@ I focus on:
 
 ---
 
-# 🐍 Contribution Snake
+# ⏺️ Contribution 
 
 <div align="center">
 
