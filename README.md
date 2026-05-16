@@ -1,28 +1,14 @@
 <!-- HERO SECTION -->
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&section=header&text=Mulugeta%20Abeje&fontSize=70&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=6,12,18,20,24,30,36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Mobile%20App%20Developer%20|%20Automation%20Builder&descAlignY=60&descSize=18" />
 
-<!-- Animated Gradient Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=6,12,20,24,30&animation=fadeIn&fontColor=ffffff" />
-
-<br/>
-
-<!-- Name Typing Animation (dynamic motion effect) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=30&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Mulugeta+Abeje;Full-Stack+Developer;Mobile+App+Developer;Automation+Builder;API+%26+Backend+Engineer;Always+Learning+%F0%9F%9A%80" />
-
-<br/>
-
-<!-- Sub Motion Description -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=ffffff&center=true&vCenter=true&width=850&lines=Building+Scalable+Systems+with+Clean+Architecture;Turning+Ideas+into+Real+World+Products;Focus+on+Performance%2C+Design+%26+Reliability" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Modern+Full-Stack+Applications;Crafting+Responsive+Frontend+Experiences;Developing+Flutter+%26+Mobile+Applications;Creating+Scalable+Backend+Systems;Working+with+APIs%2C+Firebase+%26+Databases;Automation" />
+</a>
 
 <br/><br/>
 
-<!-- Trophy Animation (auto-updating dynamic API) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Muller1616&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-<br/>
-
-<!-- Floating-style divider illusion -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00F7FF" />
+<img src="https://github-profile-trophy.vercel.app/?username=Muller1616&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1"/>
 
 </div>
 
