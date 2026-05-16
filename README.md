@@ -1,51 +1,10 @@
-# *Hey , I'm Mulugeta 👋*
-<h3>A passionate Software Engineer</h3>
-   <br>
-   
-   <image  alt = "coding" width = "1200" height = "400"  src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
- 💫 About Me:<br><br>
- I'm a passionate Back-end  Developer, Mobile App developer | Flutter.<br>
- Falling in love with creating user friendly web app
-
 
 
 ## 🌐 Connect With me:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_u_l_l_e_r_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mulugetaabeje16/) 
 
-# 💻 Tech Stack:
-<table>
-  <tr>
-    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td>
-    <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a></td>
-    <td><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a></td>
-    <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a></td>
-    <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></td>
-    <td><a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></a></td>
-    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a></td>
-    <td><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a></td>
-  </tr>
 
-  <tr>
-    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
-    <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
-    <td><a href="https://www.sketch.com/"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
-    <td><a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a></td>
-    <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
-    <td><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
-    <td><a href="https://n8n.io/"><img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40"/></a></td>
-    <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a></td>
-    <td><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a></td>
-    <td><a href="https://openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/></a></td>
-  </tr>
-</table>
-<h1>Achievement & Certificates</h1> <br>
-![Front-end development certified](https://github.com/Muller1616/Muller1616/blob/main/frontend%20certified.jpg) <br>
-![Responsive web design certified](https://github.com/Muller1616/Muller1616/blob/main/responsive%20web%20disign.jpg)
-
-
+ 
 
 
 
@@ -167,17 +126,17 @@ I don’t just have clients. I work with collaborators who remember the results 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathnael19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mulugeta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathnael19&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulugeta&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathnael19&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mulugeta&theme=tokyonight" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathnael19&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mulugeta&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
 ---
@@ -185,11 +144,11 @@ I don’t just have clients. I work with collaborators who remember the results 
 ## 📈 Activity Graph 
 
 <p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=nathnael19&theme=dracula" />
+  <img src="https://activity-graph.vercel.app/graph?username=Mulugeta&theme=dracula" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nathnael19&label=Profile%20Views&color=0072ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mulugeta&label=Profile%20Views&color=0072ff&style=for-the-badge" />
 </div>
